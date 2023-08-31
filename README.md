@@ -6,7 +6,7 @@ This is a Java program that I created to apply my basic Java programming skills.
 
 1. Download the source code from GitHub.
 2. Open the source code in your favorite IDE.
-3. Compile and run the program.
+3. Compile and run BMICalculatorDemo.
 4. The program will prompt you to enter your height and weight.
 5. Enter your height and weight in feet and kilograms.
 6. The program will calculate your BMI and display the result.
